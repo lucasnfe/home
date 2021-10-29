@@ -8,4 +8,4 @@ layout: default
 
 ### Stanford Pre-Collegiate Summer Institute
 - Summer 2018: [Computer Simulations and Interactive Media](https://lucasnfe.github.io/csim18/)
-- Summer 2017: [Computer Simulations and Interactive Media](http://www.lucasnferreira.com/teaching/csim/home.html)
+- Summer 2017: [Computer Simulations and Interactive Media](teaching/csim/home.html)
