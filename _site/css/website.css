@@ -1,0 +1,164 @@
+body {
+    font-family: 'Lato', sans-serif;
+    line-height: 30px;
+}
+
+a {
+    color: #FF706C;
+}
+
+a:hover{
+    color: #FF706C;
+}
+
+.container-fluid {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-right:0;
+    margin-left:0;
+ }
+
+#publications-wrapper {
+    line-height: 22px;
+    font-size: 16px;
+}
+
+#page-content-wrapper {
+    font-size: 18px;
+    padding-bottom: 80px;
+    padding-right: 40px;
+}
+
+#sidebar-wrapper {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    font-size: 18px;
+    background-color: #353E49;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+
+#avatar-wrapper {
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+#avatar-wrapper img{
+    width: 200px;
+}
+
+#nav-wrapper {
+    width: 100%;
+    background-color: #1d232b;
+}
+
+#nav-wrapper ul {
+    list-style: none;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#nav-wrapper a {
+    color: white;
+}
+
+#nav-wrapper a:hover{
+    color: #FF706C;
+    text-decoration: none;
+}
+
+#social-wrapper {
+    font-size: 14px;
+    width: 100%;
+}
+
+#social-wrapper img {
+    /* margin: 10px; */
+    width: 60px;
+    margin-top: 2px;
+    background-color: #1d232b;
+    border-top: 10px solid #1d232b;
+    border-bottom: 10px solid #1d232b;
+    border-left: 20px solid #1d232b;
+    border-right: 20px solid #1d232b;
+    /* border-radius: 4px; */
+}
+
+#social-wrapper img:hover {
+    background-color: #FF706C;
+    border-top: 10px solid #FF706C;
+    border-bottom: 10px solid #FF706C;
+    border-left: 20px solid #FF706C;
+    border-right: 20px solid #FF706C;
+}
+
+/* Desktop */
+@media(min-width: 575px) {
+    html, body {
+      height: 100%;
+    }
+
+    #sidebar-wrapper {
+        padding-bottom: 80px;
+    }
+
+    #page-content-wrapper {
+        padding-top: 80px;
+        padding-left: 40px;
+    }
+
+    #avatar-wrapper {
+        padding-right: 20px;
+        padding-bottom: 70px;
+        text-align: right;
+    }
+
+    #avatar-wrapper h2{
+        padding-right: 30px;
+    }
+
+    #nav-wrapper {
+        width: 65%;
+        min-width: 200px;
+        padding-right: 20px;
+        text-align: left;
+        float: right;
+    }
+
+    #social-wrapper {
+        padding-top: 70px;
+        padding-right: 20px;
+        text-align: right;
+        float: right;
+        /* max-width: 200px; */
+    }
+}
+
+/* Mobile */
+@media (max-width: 575px) {
+
+    #sidebar-wrapper {
+        padding-bottom: 40px;
+    }
+
+    #page-content-wrapper {
+        padding-top: 40px;
+    }
+
+    #avatar-wrapper {
+        text-align: center;
+    }
+
+    #nav-wrapper {
+        text-align: center;
+    }
+
+    #nav-wrapper li {
+        margin: 5px;
+        display:inline;
+    }
+
+    #social-wrapper {
+        text-align: center;
+    }
+}
