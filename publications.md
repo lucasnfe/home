@@ -15,7 +15,7 @@ IEEE Transactions on Games, 2017
 
 ### Peer Reviewed Conference and Workshop Publications
 
-- [Computer-Generated Music for Tabletop Role-Playing Games](papers/2020/aiide-composer.pdf) [video]  
+- [Computer-Generated Music for Tabletop Role-Playing Games](papers/2020/aiide-composer.pdf) [[video](https://www.youtube.com/watch?v=0VERI9KtkQk)]  
 Lucas N. Ferreira, Levi Lelis, and Jim Whitehead  
 AAAI Conference on AI and Interactive Digital Entertainment (AIIDE), 2020
 
@@ -54,3 +54,13 @@ Genetic and Evolutionary Computation Conference (GECCO), 2014
 - [A Multi-population Genetic Algorithm for Procedural Generation of Levels for Platform Games](papers/2014/gecco-mario.pdf)  
 Lucas N. Ferreira, Leonardo Pereira, and Claudio Toledo  
 Genetic and Evolutionary Computation Conference (GECCO), 2014
+
+### Dissertations and Theses
+
+- [Controlling Neural Language Models for Affective Music Composition](https://escholarship.org/content/qt437430f4/qt437430f4.pdf) [[video](https://www.youtube.com/watch?v=tlAizfule5I&feature=youtu.be)]  
+Lucas N. Ferreira  
+Ph.D. Dissertation, University of California Santa Cruz, 2021
+
+- [Uma abordagem evolutiva para geração procedural de níveis em jogos de quebra-cabeças baseados em física](https://www.teses.usp.br/teses/disponiveis/55/55134/tde-08012016-093518/publico/LucasNascimentoFerreira_dissertacao_revisada.pdf)  
+Lucas N. Ferreira  
+M.Sc. Thesis, Universidade de São Paulo, 2015

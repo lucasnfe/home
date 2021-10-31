@@ -21,9 +21,18 @@ a:hover{
 #page-content-wrapper {
     font-size: 16px;
     padding-top: 80px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 2%;
+    padding-right: 2%;
     padding-bottom: 80px;
+}
+
+#page-content-wrapper p {
+    text-align: justify;
+}
+
+#page-content-wrapper img {
+    width: 300px;
+    margin: 3px;
 }
 
 #sidebar-wrapper {
@@ -36,10 +45,9 @@ a:hover{
 }
 
 #avatar-wrapper {
-    /* width: 100%; */
     padding-right: 30px;
     padding-bottom: 70px;
-    float: right;
+    float:right;
 }
 
 #avatar-wrapper h2 {
@@ -53,7 +61,7 @@ a:hover{
 
 #nav-wrapper {
     width: 65%;
-    min-width: 200px;
+    min-width: 180px;
     padding-right: 20px;
     text-align: left;
     float: right;
@@ -86,7 +94,7 @@ a:hover{
 #social-wrapper img {
     /* margin: 10px; */
     width: 58px;
-    margin: 1px;
+    margin-top: 2px;
     background-color: #1d232b;
     border-top: 10px solid #1d232b;
     border-bottom: 10px solid #1d232b;
@@ -97,7 +105,7 @@ a:hover{
 
 #social-wrapper img:hover {
     width: 58px;
-    margin: 1px;
+    margin-top: 2px;
     background-color: #FF706C;
     border-top: 10px solid #FF706C;
     border-bottom: 10px solid #FF706C;
@@ -128,7 +136,7 @@ a:hover{
     #nav-wrapper {
         width: 100%;
         text-align: center;
-        padding: 20px 0px 10px 0px !important;
+        padding: 20px 20px 10px 20px !important;
         display: inline;
         float: center;
     }
