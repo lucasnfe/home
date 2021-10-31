@@ -5,7 +5,7 @@ layout: default
 
 ### Affective Music Composition with Deep Learning
 
-![](imgs/music.png)
+![](imgs/music.png){: .img-fluid}
 
 Deep Learning models have shown very promising results in automatically composing polyphonic music pieces.
 However, it is very hard to control such models in order to guide the compositions towards a desired goal.
@@ -14,7 +14,7 @@ a given sentiment or emotion.
 
 ### Procedural Level Generation for Physics-based Puzzle Games
 
-![](imgs/science-birds.png)
+![](imgs/science-birds.png){: .img-fluid}
 
 Physics-based puzzle games add an extra layer of difficulty to procedural content generation
 (PCG) because their mechanics are based on "realistic" physics. Thus, evaluating feasibility
