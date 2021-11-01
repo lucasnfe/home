@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: Publications
+  link: /publications.html
+- name: Research
+  link: /research.html
+- name: Teaching
+  link: /teaching.html
+- name: Resources
+  link: /resources.html
+- name: Blog
+  link: /blog.html

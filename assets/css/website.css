@@ -45,23 +45,21 @@ a:hover{
 }
 
 #avatar-wrapper {
-    padding-right: 30px;
+    width: 65%;
+    min-width: 160px;
     padding-bottom: 70px;
     float:right;
-}
-
-#avatar-wrapper h2 {
-    font-size: 28px;
     text-align: center;
 }
 
 #avatar-wrapper img {
-    width: 180px;
+    width: 65%;
+    min-width: 120px;
 }
 
 #nav-wrapper {
     width: 65%;
-    min-width: 180px;
+    min-width: 160px;
     padding-right: 20px;
     text-align: left;
     float: right;
@@ -84,6 +82,8 @@ a:hover{
 }
 
 #social-wrapper {
+    width: 65%;
+    min-width: 160px;
     padding-top: 70px;
     padding-right: 20px;
     text-align: right;
@@ -93,7 +93,7 @@ a:hover{
 
 #social-wrapper img {
     /* margin: 10px; */
-    width: 58px;
+    width: 54px;
     margin-top: 2px;
     background-color: #1d232b;
     border-top: 10px solid #1d232b;
@@ -104,7 +104,7 @@ a:hover{
 }
 
 #social-wrapper img:hover {
-    width: 58px;
+    width: 54px;
     margin-top: 2px;
     background-color: #FF706C;
     border-top: 10px solid #FF706C;
@@ -114,7 +114,7 @@ a:hover{
 }
 
 /* Desktop */
-@media(max-width: 575px) {
+@media(max-width: 576px) {
     #page-content-wrapper {
         font-size: 16px;
         padding: 40px 10px 20px 10px !important;
@@ -131,6 +131,10 @@ a:hover{
         text-align: center;
         padding: 0px 0px 20px 0px !important;
         float: center;
+    }
+
+    #avatar-wrapper img {
+        width: 180px;
     }
 
     #nav-wrapper {

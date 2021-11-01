@@ -19,7 +19,7 @@ IEEE Transactions on Games, 2017
 Lucas N. Ferreira, Levi Lelis, and Jim Whitehead  
 AAAI Conference on AI and Interactive Digital Entertainment (AIIDE), 2020
 
-- [Learning to Generate Music with Sentiment](papers/2019/ismir-learning.pdf) [video]  
+- [Learning to Generate Music with Sentiment](papers/2019/ismir-learning.pdf) [[video](https://collegerama.tudelft.nl/Mediasite/Play/31c371a7ff40406fbd22fae9e522892e1d)]  
 Lucas N. Ferreira, and Jim Whitehead  
 International Society for Music Information Retrieval (ISMIR), 2019
 
