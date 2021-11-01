@@ -1,15 +1,11 @@
-- name: LinkedIn
-  link: https://www.linkedin.com/in/lucas-n-ferreira-22652956
+- link: https://www.linkedin.com/in/lucas-n-ferreira-22652956
   image: /assets/images/social/linkedin.png
 
-- name: GitHub
-  link: https://github.com/lucasnfe
+- link: https://github.com/lucasnfe
   image: /assets/images/social/github.png
 
-- name: Google Scholar
-  link: https://scholar.google.com/citations?user=7EnFy2YAAAAJ
+- link: https://scholar.google.com/citations?user=7EnFy2YAAAAJ
   image: /assets/images/social/scholar.png
 
-- name: Twitter
-  link: https://twitter.com/lucasnfe
+- link: https://twitter.com/lucasnfe
   image: /assets/images/social/twitter.png

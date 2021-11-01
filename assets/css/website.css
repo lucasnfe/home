@@ -61,6 +61,8 @@ a:hover{
     width: 65%;
     min-width: 160px;
     padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
     text-align: left;
     float: right;
     background-color: #1d232b;
@@ -68,8 +70,6 @@ a:hover{
 
 #nav-wrapper ul {
     list-style: none;
-    padding-top: 30px;
-    padding-bottom: 30px;
 }
 
 #nav-wrapper a {
@@ -89,6 +89,10 @@ a:hover{
     text-align: right;
     float: right;
     font-size: 14px;
+}
+
+#social-wrapper a {
+    text-decoration: none;
 }
 
 #social-wrapper img {
