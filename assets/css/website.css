@@ -153,16 +153,7 @@ a:hover{
 
     #nav-wrapper li {
         display: inline;
-        padding: 0px !important;
-    }
-
-    #nav-wrapper li {
-        display: inline;
-        margin: 10px;
-    }
-
-    #nav-wrapper li:hover{
-        margin: 10px;
+        margin: 10px !important;
     }
 
     #social-wrapper {
