@@ -4,10 +4,8 @@ layout: default
 ---
 
 ### About
-I'm broadly interested in the intersections between Machine Learning and Creativity, specifically in
-algorithmic music composition and procedural content generation for games. I'm currently working on
-controlling generative deep learning models to compose music with a given emotion. I received a Ph.D. in Computer Science from the <a href="http://www.ucsc.edu">University of California, Santa Cruz</a> (UCSC), a M.Sc. in Computer Science from the <a href="http://www.usp.br">Universidade de São Paulo </a> (USP), and a B.Sc. in Computer Science
-from <a href="http://www.ufpr.br">Universidade Federal do Paraná</a> (UFPR).
+I'm broadly interested in the intersections between Artificial Intelligence and Creativity, specifically in
+algorithmic music composition, generative art and procedural content generation for games. I'm currently working on controlling generative deep learning models to compose music with a given emotion. I received a Ph.D. in Computer Science from the [University of California, Santa Cruz](http://www.ucsc.edu) (UCSC), a M.Sc. in Computer Science from the [Universidade de São Paulo](http://www.usp.br) (USP), and a B.Sc. in Computer Science from [Universidade Federal do Paraná](http://www.ufpr.br) (UFPR).
 
 ### News
 - **Oct 2021**  
