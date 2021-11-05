@@ -18,6 +18,10 @@ a:hover{
     margin-left:0;
  }
 
+ .code {
+     background-color: rgb(246, 248, 250);
+ }
+
 #page-content-wrapper {
     font-size: 16px;
     padding-top: 80px;

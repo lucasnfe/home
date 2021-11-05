@@ -2,4 +2,6 @@
 layout: post
 author: Lucas N. Ferreira
 ---
-Hello World!
+```python
+    print("Hello World!")
+```
