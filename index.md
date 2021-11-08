@@ -12,7 +12,6 @@ algorithmic music composition, generative art, and procedural content generation
 My Ph.D. dissertation is now available to the public.  
     - [Manuscript](https://escholarship.org/uc/item/437430f4)
     - [Presentation](https://www.youtube.com/watch?v=tlAizfule5I&feature=youtu.be)
-
 - **Aug 2021**  
 I successfully defended my Ph.D. dissertation: *"Controlling Neural Language Models for Affective Music Composition"*.
 
