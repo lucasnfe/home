@@ -18,7 +18,7 @@ My Ph.D. dissertation is now available to the public.
 I successfully defended my Ph.D. dissertation: *"Controlling Neural Language Models for Affective Music Composition"*.
 
 ### Contact
-*lferreira at ucsc dot edu*  
-*Augmented Design Lab*  
-*Jack Baskin School of Engineering, UC Santa Cruz*  
-*1156 High Street, Santa Cruz, CA, 95064*  
+*lnferrei at ualberta dot ca*  
+*Athabasca Hall 4-22*  
+*University of Alberta*  
+*Edmonton, AB*
