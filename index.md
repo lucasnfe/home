@@ -8,6 +8,8 @@ I'm broadly interested in the intersections between Artificial Intelligence and 
 algorithmic music composition, generative art, and procedural content generation for games. I'm currently working on controlling generative deep learning models to compose music with a given emotion. I received a Ph.D. in Computer Science from the [University of California, Santa Cruz](http://www.ucsc.edu) (UCSC), a M.Sc. in Computer Science from the [Universidade de São Paulo](http://www.usp.br) (USP), and a B.Sc. in Computer Science from [Universidade Federal do Paraná](http://www.ufpr.br) (UFPR).
 
 ### News
+- **Feb 2022**
+    - I started as a Postdoctoral Fellow at [Amii](https://www.amii.ca/) - [University of Alberta](https://www.ualberta.ca/index.html).
 - **Oct 2021**  
 My Ph.D. dissertation is now available to the public.  
     - [Manuscript](https://escholarship.org/uc/item/437430f4)
