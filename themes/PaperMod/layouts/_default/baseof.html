@@ -14,8 +14,8 @@
 {{- end -}}
 " id="top">
 
-    {{- partialCached "header.html" . .Page -}}
-    {{ range .Data.Pages }}
+{{- partialCached "header.html" . .Page -}}
+{{ range .Data.Pages }}
 {{ if eq .RelPermalink "/index.html" }} {{.Content}} {{end}}
 {{ end }}
     <main class="main">
