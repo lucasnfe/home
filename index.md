@@ -3,24 +3,29 @@ title: Home
 layout: default
 ---
 
-### About
-I'm broadly interested in the intersections between Artificial Intelligence and Creativity, specifically in
-algorithmic music composition, generative art, and procedural content generation for games. I'm currently a Postdoctoral Fellow at the [University of Alberta](https://www.ualberta.ca/index.html), working on controlling generative deep learning models to compose music with a given emotion. I received a Ph.D. in Computer Science from the [University of California, Santa Cruz](http://www.ucsc.edu) (UCSC), a M.Sc. in Computer Science from the [Universidade de São Paulo](https://www.usp.br) (USP), and a B.Sc. in Computer Science from [Universidade Federal do Paraná](https://www.ufpr.br) (UFPR).
+<div class="container">
+  <div class="row align-items-center">
+    <div class="col-3">
+      <img class="img-fluid" src="/assets/images/avatar.png" alt="me"/>
+    </div>
+    <div class="col">
+      <p>
+      I'm broadly interested in the intersections between Artificial Intelligence and Creativity, specifically in
+      algorithmic music composition, generative art, and procedural content generation for games. I'm currently a Postdoctoral Fellow at the <a href="https://www.ualberta.ca">University of Alberta</a>, working on controlling generative deep learning models to compose music with a given emotion. I received a Ph.D. in Computer Science from the <a href="https://www.ucsc.edu">University of California, Santa Cruz</a> (UCSC), a M.Sc. in Computer Science from the <a href="https://www.usp.br">Universidade de São Paulo</a>, and a B.Sc. in Computer Science from <a href="https://www.ufpr.br">Universidade Federal do Paraná</a> (UFPR).
+      </p>
+    </div>
+  </div>
+</div>
 
-### News
-- **May 2022**
-    - I am co-organizing the [9th Workshop on Experimental AI in Games](http://www.exag.org/), which will take place at the [AIIDE 2022](https://sites.google.com/view/aiide-2022/) conference.
-- **Feb 2022**
-    - I started as a Postdoctoral Fellow at [Amii](https://www.amii.ca/) - [University of Alberta](https://www.ualberta.ca/index.html).
-- **Oct 2021**  
-My Ph.D. dissertation is now available to the public.  
-    - [Manuscript](https://escholarship.org/uc/item/437430f4)
-    - [Presentation](https://www.youtube.com/watch?v=tlAizfule5I&feature=youtu.be)
+<div class="pt-4">
+  {% for n in site.data.news limit: 3 %}
+  <div class="card mb-2 bg-light border-0">
+    <div class="card-body align-items-center">
+      <h6 class="card-title fw-bold">{{ n.date }}</h6>
+      <p class="card-text">{{ n.headline }}</p>
+    </div>
+  </div>
+  {% endfor %}
 
-- [Old News](news.html)
-
-### Contact
-*lnferrei at ualberta dot ca*  
-*Athabasca Hall 4-22*  
-*University of Alberta*  
-*Edmonton, AB*
+  <h6 class="pt-3 fw-bold text-end"><a href="news.html">></a></h6>
+</div>

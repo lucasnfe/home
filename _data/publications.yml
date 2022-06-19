@@ -1,0 +1,72 @@
+journals:
+  - title: "The 2017 AIBirds Level Generation Competition"
+    pdf: "assets/papers/2018/tog-abcomp.pdf"
+    authors: "Matthew Stephenson, Jochen Renz, Xiaoyu Ge, Lucas N. Ferreira, Julian Togelius and Peng Zhang"
+    venue: "IEEE Transactions on Games, 2018"
+
+  - title: "Tanager: A Generator of Feasible and Engaging Levels for Angry Birds"
+    pdf: "assets/papers/2017/tciaig-evoab.pdf"
+    authors: "Lucas N. Ferreira and Claudio Toledo "
+    venue: "IEEE Transactions on Games, 2017"
+
+conferences:
+  - title: "Computer-Generated Music for Tabletop Role-Playing Games"
+    pdf: "assets/papers/2020/aiide-composer.pdf"
+    authors: "Lucas N. Ferreira, Levi Lelis, and Jim Whitehead"
+    venue: "AAAI Conference on AI and Interactive Digital Entertainment (AIIDE), 2020"
+
+  - title: "Learning to Generate Music with Sentiment"
+    pdf: "assets/papers/2019/ismir-learning.pdf"
+    authors: "Lucas N. Ferreira and Jim Whitehead"
+    venue: "International Society for Music Information Retrieval (ISMIR), 2019"
+
+  - title: "Be Inaccurate but don't be Indecisive: How Error Distribution Can Affect User Experience"
+    pdf: "assets/papers/2019/aaai-bardo.pdf"
+    authors: "Rafael Padovani, Lucas N. Ferreira, and Levi Lelis"
+    venue: "Conference on Artificial Intelligence (AAAI), 2019"
+
+  - title: "Bardo: Emotion-based Music Recommendation for Tabletop Role-Playing Games"
+    pdf: "assets/papers/2017/aiide-bardo.pdf"
+    authors: "Rafael Padovani, Lucas N. Ferreira, and Levi Lelis"
+    venue: "AAAI Conference on AI and Interactive Digital Entertainment (AIIDE), 2017"
+
+  - title: "Towards Generative Emotions in Games Based on Cognitive Modeling"
+    pdf: "assets/papers/2017/fdg-emotions-games.pdf"
+    authors: "Chandranil Chakraborttii, Lucas N. Ferreira, and Jim Whitehead"
+    venue: "International Conference on the Foundations of Digital Games (FDG), 2017"
+
+  - title: "Learning to Speed Up Evolutionary Content Generation in Physics-based Puzzle Games"
+    pdf: "assets/papers/2016/ictai-learning.pdf"
+    authors: "Leonardo Pereira, Claudio Toledo, Lucas N. Ferreira, and Levi Lelis"
+    venue: "IEEE International Conference on Tools with Artificial Intelligence (ICTAI), 2016"
+
+  - title: "A Search-based Approach for Generating Angry Birds Levels"
+    pdf: "assets/papers/2014/cig-evoab.pdf"
+    authors: "Lucas N. Ferreira and Claudio Toledo"
+    venue: "IEEE Conference on Computational Intelligence and Games (CIG), 2014"
+
+  - title: "Generating Levels for Physics-based Puzzle Games with Estimation of Distribution Algorithms"
+    pdf: "assets/papers/2014/ace-edaab.pdf"
+    authors: "Lucas N. Ferreira and Claudio Toledo"
+    venue: "Advances in Computer Entertainment Technology Conference (ACE), 2014"
+
+  - title: "Evolutionary Approaches to Evolve AI Scripts for a RTS Game"
+    pdf: "assets/papers/2014/gecco-boss.pdf"
+    authors: "Lucas N. Ferreira, Rodrigo Pereira, Leonardo Pereira, and Claudio Toledo"
+    venue: "Genetic and Evolutionary Computation Conference (GECCO), 2014"
+
+  - title: "A Multi-population Genetic Algorithm for Procedural Generation of Levels for Platform Games"
+    pdf: "assets/papers/2014/gecco-mario.pdf"
+    authors: "Lucas N. Ferreira, Leonardo Pereira, and Claudio Toledo"
+    venue: "Genetic and Evolutionary Computation Conference (GECCO), 2014"
+
+theses:
+  - title: "Controlling Neural Language Models for Affective Music Composition"
+    pdf: "https://escholarship.org/content/qt437430f4/qt437430f4.pdf"
+    authors: "Lucas N. Ferreira"
+    venue: "Ph.D. Dissertation, University of California Santa Cruz, 2021"
+
+  - title: "Uma Abordagem Evolutiva para Geração Procedural de Níveis em Jogos de Quebra-cabeças Baseados em Física"
+    pdf: "https://www.teses.usp.br/teses/disponiveis/55/55134/tde-08012016-093518/publico/LucasNascimentoFerreira_dissertacao_revisada.pdf"
+    authors: "Lucas N. Ferreira"
+    venue: "M.Sc. Thesis, Universidade de São Paulo, 2015"

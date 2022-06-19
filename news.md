@@ -4,5 +4,13 @@ title: Old News
 ---
 ### Old News
 
-- **Aug 2021**  
-I successfully defended my Ph.D. dissertation: *"Controlling Neural Language Models for Affective Music Composition"*.
+<div class="pt-2">
+  {% for n in site.data.news offset: 3 %}
+  <div class="card mb-2 bg-light border-0">
+    <div class="card-body align-items-center">
+      <h6 class="card-title fw-bold">{{ n.date }}</h6>
+      <p class="card-text">{{ n.headline }}</p>
+    </div>
+  </div>
+  {% endfor %}
+</div>
