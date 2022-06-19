@@ -16,7 +16,12 @@ IEEE Transactions on Games, 2017 -->
 {% for p in site.data.publications.journals %}
   <div class="card bg-light border-0 mb-2">
     <div class="card-body">
-      <h6 class="card-title"><a href="{{ p.pdf }}">{{ p.title }}</a></h6>
+      {% if p.video %}
+        <h6 class="card-title"><a href="{{ p.pdf }}">{{ p.title }}</a> [<a href="{{ p.video }}">Video</a>]</h6>
+      {% else %}
+        <h6 class="card-title"><a href="{{ p.pdf }}">{{ p.title }}</a></h6>
+      {% endif %}
+
       <p class="card-text">
         {{ p.authors }}<br>
         {{ p.venue }}
@@ -32,7 +37,11 @@ IEEE Transactions on Games, 2017 -->
 {% for p in site.data.publications.conferences %}
   <div class="card bg-light border-0 mb-2">
     <div class="card-body">
-      <h6 class="card-title"><a href="{{ p.pdf }}">{{ p.title }}</a></h6>
+      {% if p.video %}
+        <h6 class="card-title"><a href="{{ p.pdf }}">{{ p.title }}</a> [<a href="{{ p.video }}">Video</a>]</h6>
+      {% else %}
+        <h6 class="card-title"><a href="{{ p.pdf }}">{{ p.title }}</a></h6>
+      {% endif %}
       <p class="card-text">
         {{ p.authors }}<br>
         {{ p.venue }}
@@ -79,7 +88,11 @@ Genetic and Evolutionary Computation Conference (GECCO), 2014 -->
 {% for p in site.data.publications.theses %}
   <div class="card bg-light border-0 mb-2">
     <div class="card-body">
-      <h6 class="card-title"><a href="{{ p.pdf }}">{{ p.title }}</a></h6>
+      {% if p.video %}
+        <h6 class="card-title"><a href="{{ p.pdf }}">{{ p.title }}</a> [<a href="{{ p.video }}">Video</a>]</h6>
+      {% else %}
+        <h6 class="card-title"><a href="{{ p.pdf }}">{{ p.title }}</a></h6>
+      {% endif %}
       <p class="card-text">
         {{ p.authors }}<br>
         {{ p.venue }}

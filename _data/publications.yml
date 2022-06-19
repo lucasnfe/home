@@ -14,11 +14,13 @@ conferences:
     pdf: "assets/papers/2020/aiide-composer.pdf"
     authors: "Lucas N. Ferreira, Levi Lelis, and Jim Whitehead"
     venue: "AAAI Conference on AI and Interactive Digital Entertainment (AIIDE), 2020"
+    video: "https://www.youtube.com/watch?v=0VERI9KtkQk"
 
   - title: "Learning to Generate Music with Sentiment"
     pdf: "assets/papers/2019/ismir-learning.pdf"
     authors: "Lucas N. Ferreira and Jim Whitehead"
     venue: "International Society for Music Information Retrieval (ISMIR), 2019"
+    video: "https://collegerama.tudelft.nl/Mediasite/Play/31c371a7ff40406fbd22fae9e522892e1d"
 
   - title: "Be Inaccurate but don't be Indecisive: How Error Distribution Can Affect User Experience"
     pdf: "assets/papers/2019/aaai-bardo.pdf"
@@ -65,6 +67,7 @@ theses:
     pdf: "https://escholarship.org/content/qt437430f4/qt437430f4.pdf"
     authors: "Lucas N. Ferreira"
     venue: "Ph.D. Dissertation, University of California Santa Cruz, 2021"
+    video: "https://www.youtube.com/watch?v=tlAizfule5I&feature=youtu.be"
 
   - title: "Uma Abordagem Evolutiva para Geração Procedural de Níveis em Jogos de Quebra-cabeças Baseados em Física"
     pdf: "https://www.teses.usp.br/teses/disponiveis/55/55134/tde-08012016-093518/publico/LucasNascimentoFerreira_dissertacao_revisada.pdf"
