@@ -57,3 +57,31 @@ body {
   font-weight: bold;
   text-decoration: underline;
 }
+
+@media(max-width:981px) {
+  body {
+    width: 95%;
+  }
+
+  .menu {
+    text-align: center;
+  }
+
+  .author {
+    text-align: center;
+  }
+
+  .project-picture {
+    width: 80%;
+    margin-bottom: 10px;
+  }
+
+  .profile-picture {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+  }
+
+}

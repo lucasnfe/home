@@ -5,10 +5,10 @@ layout: default
 
 <div class="container">
   <div class="row align-items-center">
-    <div class="col-3">
-      <img class="img-fluid" src="/assets/images/avatar.png" alt="me"/>
+    <div class="col-lg-3">
+      <img class="img-fluid profile-picture" src="/assets/images/avatar.png" alt="me"/>
     </div>
-    <div class="col">
+    <div class="col-lg">
       <p>
       I'm broadly interested in the intersections between Artificial Intelligence and Creativity, specifically in
       algorithmic music composition, generative art, and procedural content generation for games. I'm currently a Postdoctoral Fellow at the <a href="https://www.ualberta.ca">University of Alberta</a>, working on controlling generative deep learning models to compose music with a given emotion. I received a Ph.D. in Computer Science from the <a href="https://www.ucsc.edu">University of California, Santa Cruz</a> (UCSC), a M.Sc. in Computer Science from the <a href="https://www.usp.br">Universidade de São Paulo</a>, and a B.Sc. in Computer Science from <a href="https://www.ufpr.br">Universidade Federal do Paraná</a> (UFPR).
