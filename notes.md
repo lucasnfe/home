@@ -10,5 +10,5 @@ I like to keep my notes public because it might help other people and it helps m
 to be more careful when taking them.
 
 {% for post in site.posts %}
-  - **{{ post.date | date_to_string}}**: [{{ post.title }}]({{ post.url }})
+  - **{{ post.date | date_to_string}}**: [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
