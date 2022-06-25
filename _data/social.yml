@@ -1,11 +1,14 @@
-- link: https://www.linkedin.com/in/lucas-n-ferreira-22652956
-  image: /assets/images/social/linkedin.svg
+# - link: mailto:lnferrei@ualberta.ca
+#   image: /assets/images/social/email.svg
 
-- link: https://github.com/lucasnfe
-  image: /assets/images/social/github.svg
+- link: https://twitter.com/lucasnfe
+  image: /assets/images/social/twitter.svg
 
 - link: https://scholar.google.com/citations?user=7EnFy2YAAAAJ
   image: /assets/images/social/scholar.svg
 
-- link: https://twitter.com/lucasnfe
-  image: /assets/images/social/twitter.svg
+- link: https://github.com/lucasnfe
+  image: /assets/images/social/github.svg
+
+- link: https://www.linkedin.com/in/lucas-n-ferreira-22652956
+  image: /assets/images/social/linkedin.svg
