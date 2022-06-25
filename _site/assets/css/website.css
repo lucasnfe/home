@@ -21,6 +21,10 @@ body {
   /* padding-right: 40px; */
 }
 
+.menu ul {
+  padding-left: 0px;
+}
+
 .menu li {
     font-size: 18px;
     font-weight: lighter !important;
