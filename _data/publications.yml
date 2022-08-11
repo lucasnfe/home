@@ -10,6 +10,11 @@ journals:
     venue: "IEEE Transactions on Games, 2017"
 
 conferences:
+  - title: "Controlling Perceived Emotion in Symbolic Music Generation with Monte Carlo Tree Search"
+    pdf: "https://arxiv.org/abs/2208.05162"
+    authors: "Lucas N. Ferreira, Lili Mou, Jim Whitehead, and Levi Lelis"
+    venue: "AAAI Conference on AI and Interactive Digital Entertainment (AIIDE), 2022"
+
   - title: "Computer-Generated Music for Tabletop Role-Playing Games"
     pdf: "assets/papers/2020/aiide-composer.pdf"
     authors: "Lucas N. Ferreira, Levi Lelis, and Jim Whitehead"
