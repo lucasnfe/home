@@ -14,6 +14,7 @@ conferences:
     pdf: "https://arxiv.org/abs/2208.05162"
     authors: "Lucas N. Ferreira, Lili Mou, Jim Whitehead, and Levi Lelis"
     venue: "AAAI Conference on AI and Interactive Digital Entertainment (AIIDE), 2022"
+    video: "https://www.youtube.com/watch?v=mw_GYjzaVYI"
 
   - title: "Computer-Generated Music for Tabletop Role-Playing Games"
     pdf: "assets/papers/2020/aiide-composer.pdf"

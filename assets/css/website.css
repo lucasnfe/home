@@ -6,6 +6,48 @@ body {
   margin: auto;
 }
 
+#p5-sketch {
+  padding: 20px;
+  background-color: #eee;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+pre {
+  padding: 20px;
+  background-color: #eee;
+  border-radius: 5px;
+  line-height: 15pt;
+}
+
+.toprule {
+  margin-bottom: 0px;
+  height: 16px;
+  /* Set the hr color */
+  background-color: #000; /* Modern Browsers */
+}
+
+.bottomrule {
+  margin-bottom: 0px;
+  height: 8px;
+  /* Set the hr color */
+  background-color: #000; /* Modern Browsers */
+}
+
+.post {
+  margin-left: 20px;
+}
+
+.post-content {
+  margin-left: 0px;
+  margin-top: 80px;
+}
+
+.post-header {
+  margin-top: 20px;
+  margin-left: 120px;
+}
+
 .header {
   padding-top: 20px;
 }
