@@ -1,6 +1,6 @@
 - title: "VGMIDI Dataset"
   image: "/assets/images/annotation.png"
-  abstract: "VGMIDI is a dataset of 200 MIDI labelled piano pieces and 728 non-labelled ones, all piano arrangements of video game soundtracks. Each piece was annotated by 30 human subjects according to a valence-arousal (dimensional) model of emotion. The sentiment of each piece was then extracted by summarizing the 30 annotations and mapping the valence axis to sentiment. The dataset is available on <a href='https://github.com/lucasnfe/vgmidi'>github</a>."
+  abstract: "VGMIDI is a dataset of 200 MIDI labelled piano pieces and 3,850 non-labelled ones, all piano arrangements of video game soundtracks. Each piece was annotated by 30 human subjects according to a valence-arousal (dimensional) model of emotion. The sentiment of each piece was then extracted by summarizing the 30 annotations and mapping the valence axis to sentiment. The dataset is available on <a href='https://github.com/lucasnfe/vgmidi'>github</a>."
 
 - title: "Science Birds"
   image: "/assets/images/science-birds.png"
