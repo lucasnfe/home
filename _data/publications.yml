@@ -11,7 +11,7 @@ journals:
 
 conferences:
   - title: "Controlling Perceived Emotion in Symbolic Music Generation with Monte Carlo Tree Search"
-    pdf: "https://arxiv.org/abs/2208.05162"
+    pdf: "assets/papers/2022/aiide-controlling-emotion.pdf"
     authors: "Lucas N. Ferreira, Lili Mou, Jim Whitehead, and Levi Lelis"
     venue: "AAAI Conference on AI and Interactive Digital Entertainment (AIIDE), 2022"
     video: "https://www.youtube.com/watch?v=mw_GYjzaVYI"
