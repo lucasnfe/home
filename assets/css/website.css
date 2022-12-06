@@ -6,13 +6,6 @@ body {
   margin: auto;
 }
 
-#p5-sketch {
-  padding: 20px;
-  background-color: #eee;
-  border-radius: 5px;
-  margin-bottom: 20px;
-}
-
 pre {
   padding: 20px;
   background-color: #eee;
@@ -110,7 +103,9 @@ pre {
 }
 
 .profile-picture {
+  border-radius: 50%;
   width: 180px;
+  height: 180px;
 }
 
 /* Small devices (tablets, 768px and up) */

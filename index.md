@@ -5,8 +5,8 @@ layout: default
 
 <div class="container">
   <div class="row align-items-center">
-    <div class="col-lg-3">
-      <img class="profile-picture" src="{{'/assets/images/avatar.png' | relative_url}}" alt="me"/>
+    <div class="col-lg-3 pb-2">
+      <img class="profile-picture" src="{{'/assets/images/avatar3.jpg' | relative_url}}" alt="me"/>
     </div>
     <div class="col-lg">
       <p>
