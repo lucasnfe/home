@@ -10,8 +10,8 @@ layout: default
     </div>
     <div class="col-lg profile-discription">
       <p>
-      I'm broadly interested in the intersections between Artificial Intelligence and Creativity, specifically in
-      algorithmic music composition, generative art, and procedural content generation for games. I'm currently a Postdoctoral Fellow at the <a href="https://www.ualberta.ca">University of Alberta</a>, working on controlling generative deep learning models to compose music with a given emotion. I received a Ph.D. in Computer Science from the <a href="https://www.ucsc.edu">University of California, Santa Cruz</a> (UCSC), a M.Sc. in Computer Science from the <a href="https://www.usp.br">Universidade de São Paulo</a> (USP), and a B.Sc. in Computer Science from <a href="https://www.ufpr.br">Universidade Federal do Paraná</a> (UFPR).
+      I'm an Assistant Professor at the <a href="https://www.ufb.br">Universidade Federal de Viçosa</a>, working on the intersections between Artificial Intelligence and Creativity, specifically in Algorithmic Music Composition, Generative AI, and Procedural Content Generation. 
+      Previously, I was a Postdoctoral Fellow at the <a href="https://www.ualberta.ca">University of Alberta</a>, working on controlling generative deep learning models to compose music with a given emotion. I received a Ph.D. in Computer Science from the <a href="https://www.ucsc.edu">University of California, Santa Cruz</a> (UCSC), a M.Sc. in Computer Science from the <a href="https://www.usp.br">Universidade de São Paulo</a> (USP), and a B.Sc. in Computer Science from <a href="https://www.ufpr.br">Universidade Federal do Paraná</a> (UFPR).
       </p>
     </div>
   </div>
