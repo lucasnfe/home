@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <!-- Required meta tags -->
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+      <meta name="robots" content="follow, index"/>
+      <meta name="description" content="INF100 - Introdução à Programação 1" />
+
+      <!-- Bootstrap CSS -->
+      <link rel="stylesheet"  href="{{ '/assets/css/bootstrap.min.css' | relative_url }}">
+
+      <!-- Website CSS -->
+      <link rel="stylesheet" href="{{ '/assets/css/course.css' | relative_url}}">
+
+      <title>Lucas N. Ferreira</title>
+    </head>
+
+    <body>
+      <div class="container">
+        <div class="header row align-items-center">
+            <div>
+                <h3>{{page.university}}</h3>
+                <h3>{{page.department}}</h3>
+                <h5>{{page.title}} ({{page.semester}})</h5>
+            </div>
+
+            <div>
+                <ul>
+                    <li>{{page.author}} - {{page.email}}</li>
+                    <li>Aulas: {{page.lecture-hours}}</li>
+                    <li>Atendimento: {{page.office-hours}}</li>
+                </ul>
+            </div>
+
+            <div class="row">
+            <div class="main">
+                {{ content }}
+            </div>
+            </div>
+      </div>
+    </body>
+</html>
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>

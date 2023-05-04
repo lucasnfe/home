@@ -3,6 +3,9 @@ title: Teaching
 layout: default
 ---
 
+### Universidade Federal de Viçosa
+- 2023/1: [INF100 - Introdução à Programação I](teaching/ufv/2023_1_INF100/home)
+
 ### University of California, Santa Cruz
 - Summer 2019: [CMPM147 - Generative Design](https://canvas.ucsc.edu/courses/26749)
 
