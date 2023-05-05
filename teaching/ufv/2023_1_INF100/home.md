@@ -36,9 +36,9 @@ Comando de repetição `while`.
 - **Semana 6 (24/04 - 28/04)**<br>
 Exercício de revisão de entrada e saída e comandos condicionais `if-elif-else`, combinados com comandos de repetição.
 
-- **Semana 6 (01/05 - 05/05)**<br>
+- **Semana 6 (01/05 - 05/05)</mark>**<br>
 Exercício de revisão para a primeira prova. <br>
-**Prova 1!**
+**<mark>Prova 1: 06/05 - Sábado, 8:00</mark>**
 
 - **Semana 7 (08/05 - 12/05)**<br>
 Comando de repetição `for` e arranjos unidimensionais.
@@ -54,7 +54,7 @@ Processamento de Imagens. Exercícios comandos repetitivos e arranjos.
 
 - **Semana 11 (05/06 - 09/06)**<br>
 Exercícios de comandos repetitivos e arranjos.<br>
-**Prova 2!**
+**<mark>Prova 2: 07/06 - Quarta-feira, 18:20</mark>**
 
 - **Semana 12 (12/06 - 16/06)**<br>
 Funções: definição e uso de parâmetros.
@@ -64,10 +64,10 @@ Funções: escopo e organização de código.
 
 - **Semana 14 (03/07 - 07/07)**<br>
 Exercícios com funções.<br>
-**Prova 3!**
+**<mark>Prova 3: 08/07 - Sábado, 8:00</mark>**
 
 - **Semana 15 (10/07 - 14/07)**<br>
-Prova de segunda chamada.
+**<mark>Prova de segunda chamada: 11/06 - Terça-feira, 18:30</mark>**
 
 - **Semana 16 (17/07 - 21/07)**<br>
 Exames finais.
