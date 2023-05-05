@@ -11,9 +11,9 @@ office-hours: DPI401, quinta-feira, 12:00-14:00
 ---
 
 ### Introdução
-Esse curso é uma introdução à programação para estudentes das engenharias e ciências exatas (exceto computação) por meio da linguagem Python.
-O objetivo do curso é possibilitar que os alunos possam escrever e analisar programas de computador simples que contribuam para automatização 
-de tarefas em sua futura área de atuação profissional, na pós-graduação, ou na iniciação científica. O curso é organizado em aulas teóricas 
+Esse é um curso de introdução à programação com a linguagem Python para estudentes de cursos de Engenharias e Ciências Exatas (exceto Ciência da Computação).
+O objetivo do curso é capacitar os alunos para escrever e analisar programas de computador simples, de tal forma que possam automatizar
+tarefas em suas futuras áreas de atuação profissional, na pós-graduação, ou na iniciação científica. O curso é organizado em aulas teóricas 
 e práticas. Cada semana, o aluno é exposto a um conjunto de tópicos na aula teórica, os quais são exercitados durante a aula prática por meio 
 de um problema de programação.
 
