@@ -36,7 +36,7 @@ Comando de repetição `while`.
 - **Semana 6 (24/04 - 28/04)**<br>
 Exercício de revisão de entrada e saída e comandos condicionais `if-elif-else`, combinados com comandos de repetição.
 
-- **Semana 6 (01/05 - 05/05)</mark>**<br>
+- → **Semana 6 (01/05 - 05/05)**<br>
 Exercício de revisão para a primeira prova. <br>
 **<mark>Prova 1: 06/05 - Sábado, 8:00</mark>**
 
