@@ -73,6 +73,6 @@ Prova de segunda chamada.
 Exames finais.
 
 ### Avaliação
-<!-- A nota final do aluno será composta por 3 provas e 16 trabalhos práticos (um por semana)<br> -->
-- \- 3 Provas: 70%
-- \- 16 Trabalhos práticos (um por semana): 30%
+A nota final do aluno será divida da seguinte forma:<br>
+\- 3 Provas: 70%<br>
+\- 16 Trabalhos práticos (um por semana): 30%
