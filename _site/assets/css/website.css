@@ -45,12 +45,22 @@ pre {
   padding-top: 20px;
 }
 
+.social {
+  margin: 10px;
+}
+
+.address {
+  font-size: 14px;
+  margin: 0px;
+  padding: 0px;
+}
+
+
 .author {
   font-size: 24px;
   font-weight: bold;
   /* text-align: center; */
 }
-
 .menu {
   text-align: right;
   /* padding-right: 40px; */
