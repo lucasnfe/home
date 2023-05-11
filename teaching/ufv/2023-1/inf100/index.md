@@ -4,7 +4,7 @@ university: Universidade Federal de Viçosa
 department: Departamento de Informática
 title: INF 100 - Introdução à Programação 1 - Turma Teórica 4
 author: Prof. Lucas N. Ferreira
-email: lucasnfe@gmail.com
+email: lucas.n.ferreira@ufv.br
 semester: 2023/1
 lecture-hours: PVB206, quinta-feira, 10:00-11:50
 office-hours: DPI401, quinta-feira, 12:00-14:00
