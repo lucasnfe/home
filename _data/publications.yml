@@ -10,15 +10,20 @@ journals:
     venue: "IEEE Transactions on Games, 2017"
 
 conferences:
+  - title: "Choosing Well Your Opponents: How to Guide the Synthesis of Programmatic Strategies"
+    pdf: "assets/papers/2023/ijcai-2l.pdf"
+    authors: "Rubens O. Moraes, David S. Aleixo, Lucas N. Ferreira, and Levi H. S. Lelis"
+    venue: "International Joint Conference on Artificial Intelligence (IJCAI), 2023"
+
   - title: "Controlling Perceived Emotion in Symbolic Music Generation with Monte Carlo Tree Search"
     pdf: "assets/papers/2022/aiide-controlling-emotion.pdf"
-    authors: "Lucas N. Ferreira, Lili Mou, Jim Whitehead, and Levi Lelis"
+    authors: "Lucas N. Ferreira, Lili Mou, Jim Whitehead, and Levi H. S. Lelis"
     venue: "AAAI Conference on AI and Interactive Digital Entertainment (AIIDE), 2022"
     video: "https://www.youtube.com/watch?v=mw_GYjzaVYI"
 
   - title: "Computer-Generated Music for Tabletop Role-Playing Games"
     pdf: "assets/papers/2020/aiide-composer.pdf"
-    authors: "Lucas N. Ferreira, Levi Lelis, and Jim Whitehead"
+    authors: "Lucas N. Ferreira, Levi H. S. Lelis, and Jim Whitehead"
     venue: "AAAI Conference on AI and Interactive Digital Entertainment (AIIDE), 2020"
     video: "https://www.youtube.com/watch?v=0VERI9KtkQk"
 
@@ -30,12 +35,12 @@ conferences:
 
   - title: "Be Inaccurate but don't be Indecisive: How Error Distribution Can Affect User Experience"
     pdf: "assets/papers/2019/aaai-bardo.pdf"
-    authors: "Rafael Padovani, Lucas N. Ferreira, and Levi Lelis"
+    authors: "Rafael Padovani, Lucas N. Ferreira, and Levi H. S. Lelis"
     venue: "Conference on Artificial Intelligence (AAAI), 2019"
 
   - title: "Bardo: Emotion-based Music Recommendation for Tabletop Role-Playing Games"
     pdf: "assets/papers/2017/aiide-bardo.pdf"
-    authors: "Rafael Padovani, Lucas N. Ferreira, and Levi Lelis"
+    authors: "Rafael Padovani, Lucas N. Ferreira, and Levi H. S. Lelis"
     venue: "AAAI Conference on AI and Interactive Digital Entertainment (AIIDE), 2017"
 
   - title: "Towards Generative Emotions in Games Based on Cognitive Modeling"
@@ -45,7 +50,7 @@ conferences:
 
   - title: "Learning to Speed Up Evolutionary Content Generation in Physics-based Puzzle Games"
     pdf: "assets/papers/2016/ictai-learning.pdf"
-    authors: "Leonardo Pereira, Claudio Toledo, Lucas N. Ferreira, and Levi Lelis"
+    authors: "Leonardo Pereira, Claudio Toledo, Lucas N. Ferreira, and Levi H. S. Lelis"
     venue: "IEEE International Conference on Tools with Artificial Intelligence (ICTAI), 2016"
 
   - title: "A Search-based Approach for Generating Angry Birds Levels"
