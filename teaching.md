@@ -4,9 +4,12 @@ layout: default
 ---
 
 ### Universidade Federal de Viçosa
+- 2024/1: [INF623 - Inteligência Artificial]()
+- 2024/1: INF110 - Programação I
+- 2024/1: INF100 - Introdução à Programação I
 - 2023/2: [INF721 - Aprendizado em Redes Neurais Profundas](https://lucasnfe.github.io/ufv-inf721/)
 - 2023/2: [INF216 - Projeto e Implementação de Jogos Digitais](https://lucasnfe.github.io/ufv-inf216)
-- 2023/1: [INF100 - Introdução à Programação I](teaching/ufv/2023-1/inf100)
+- 2023/1: INF100 - Introdução à Programação I
 
 ### University of California, Santa Cruz
 - Summer 2019: [CMPM147 - Generative Design](https://canvas.ucsc.edu/courses/26749)

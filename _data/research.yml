@@ -1,3 +1,7 @@
+- title: "Recommendation Systems for Personalized Learning of Programming"
+  image: "/assets/images/programming.jpg"
+  abstract: "The high interest in Computer Science programs has pushed universities around the world to raise the number of seats in related classes, making it challenging to provide personalized attention to students. Programming courses are one of the most important disciplines in these programs and are particularly challenging since they require a significant number of practical exercises, which need to be designed to address the various students' backgrounds. In this project, we investigate recommendation systems that can model students' profiles and suggest appropriate learning materials."
+
 - title: "Affective Music Composition with Deep Learning"
   image: "/assets/images/music.png"
   abstract: "Deep Learning models have shown very promising results in automatically composing polyphonic music pieces. However, it is very hard to control such models in order to guide the compositions towards a desired goal. In this project, I am interested in controlling deep learning model to automatically generate music with a given sentiment or emotion."
