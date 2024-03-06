@@ -4,7 +4,7 @@ layout: default
 ---
 
 ### Universidade Federal de Viçosa
-- 2024/1: [INF623 - Inteligência Artificial]()
+- 2024/1: [INF623 - Inteligência Artificial](https://ufv-inf623.lucasnferreira.com/)
 - 2024/1: INF110 - Programação I
 - 2024/1: INF100 - Introdução à Programação I
 - 2023/2: [INF721 - Aprendizado em Redes Neurais Profundas](https://lucasnfe.github.io/ufv-inf721/)
