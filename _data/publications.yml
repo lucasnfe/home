@@ -10,6 +10,11 @@ journals:
     venue: "IEEE Transactions on Games, 2017"
 
 conferences:
+- title: "The NES Video-Music Database: A Dataset of Symbolic Video Game Music Paired with Gameplay Videos"
+    pdf: "assets/papers/2024/fdg-24.pdf"
+    authors: "Igor Cardoso, Rubens O. Moraes, and Lucas N. Ferreira"
+    venue: "International Conference on the Foundations of Digital Games (FDG), 2024"
+
   - title: "Choosing Well Your Opponents: How to Guide the Synthesis of Programmatic Strategies"
     pdf: "assets/papers/2023/ijcai-2l.pdf"
     authors: "Rubens O. Moraes, David S. Aleixo, Lucas N. Ferreira, and Levi H. S. Lelis"
