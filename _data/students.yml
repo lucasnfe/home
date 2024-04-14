@@ -1,0 +1,21 @@
+phd:
+  - name: "Carlos Eduardo Paulino Silva"
+    site: "https://www.researchgate.net/profile/Carlos_Silva23"
+    cosupervisor: "André Gustavo dos Santos"
+
+masters:
+  - name: "Felipe Ferreira Marra"
+    site: "https://www.researchgate.net/profile/Carlos_Silva23"
+
+  - name: "Igor Rodrigues Cardoso"
+    site: "https://www.researchgate.net/profile/Carlos_Silva23"
+
+  - name: "Nicholas Barbosa e Costa"
+    site: "https://www.researchgate.net/profile/Carlos_Silva23"
+
+  - name: "Rafael Alves da Silva"
+    site: "https://www.researchgate.net/profile/Carlos_Silva23"
+    
+undergrad:
+  - name: "João Lucas Silva Solano"
+    site: "https://www.researchgate.net/profile/Carlos_Silva23"

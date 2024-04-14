@@ -3,7 +3,7 @@ title: Teaching
 layout: default
 ---
 
-### Universidade Federal de Viçosa
+#### Universidade Federal de Viçosa
 - 2024/1: [INF623 - Inteligência Artificial](https://ufv-inf623.lucasnferreira.com/)
 - 2024/1: INF110 - Programação I
 - 2024/1: INF100 - Introdução à Programação I
@@ -11,9 +11,9 @@ layout: default
 - 2023/2: [INF216 - Projeto e Implementação de Jogos Digitais](https://lucasnfe.github.io/ufv-inf216)
 - 2023/1: INF100 - Introdução à Programação I
 
-### University of California, Santa Cruz
+#### University of California, Santa Cruz
 - Summer 2019: [CMPM147 - Generative Design](https://canvas.ucsc.edu/courses/26749)
 
-### Stanford Pre-Collegiate Summer Institute
+#### Stanford Pre-Collegiate Summer Institute
 - Summer 2018: [Computer Simulations and Interactive Media](https://lucasnfe.github.io/csim18/)
 - Summer 2017: [Computer Simulations and Interactive Media](teaching/csim/home.html)

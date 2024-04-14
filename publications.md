@@ -3,7 +3,7 @@ title: Publications
 layout: default
 ---
 
-### Peer Reviewed Journal Publications
+#### Peer Reviewed Journal Publications
 
 <div class="pb-4">
 {% for p in site.data.publications.journals %}
@@ -24,7 +24,7 @@ layout: default
 {% endfor %}
 </div>
 
-### Peer Reviewed Conference and Workshop Publications
+#### Peer Reviewed Conference and Workshop Publications
 
 <div class="pb-4">
 {% for p in site.data.publications.conferences %}
@@ -44,7 +44,7 @@ layout: default
 {% endfor %}
 </div>
 
-### Dissertations and Theses
+#### Dissertations and Theses
 
 <div class="pb-4">
 {% for p in site.data.publications.theses %}
