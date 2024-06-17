@@ -15,6 +15,11 @@ conferences:
     authors: "Igor Cardoso, Rubens O. Moraes, and Lucas N. Ferreira"
     venue: "International Conference on the Foundations of Digital Games (FDG), 2024"
 
+  - title: "Towards Generating Surprising Content in 2D Platform Games"
+    pdf: "assets/papers/2024/fdg-24-nil.pdf"
+    authors: "Chandranil Chakraborttii and Lucas N. Ferreira"
+    venue: "International Conference on the Foundations of Digital Games (FDG), 2024"
+
   - title: "Choosing Well Your Opponents: How to Guide the Synthesis of Programmatic Strategies"
     pdf: "assets/papers/2023/ijcai-2l.pdf"
     authors: "Rubens O. Moraes, David S. Aleixo, Lucas N. Ferreira, and Levi H. S. Lelis"

@@ -1,3 +1,7 @@
+- title: "NES-VMDB Dataset"
+  image: "/assets/images/nes-vmdb.png"
+  abstract: "The NES Video-Music Database (NES-MVDB) is a dataset of 98,940 short (15 seconds) gameplay videos from 386 NES games, each paired with its original music piece in symbolic format (MIDI). NES-MVDB is built upon the Nintendo Entertainment System Music Database (NES-MDB). The dataset is available <a href='https://nesvmdb.lucasnferreira.com/'>here</a>."
+
 - title: "VGMIDI Dataset"
   image: "/assets/images/annotation.png"
   abstract: "VGMIDI is a dataset of 200 MIDI labelled piano pieces and 3,850 non-labelled ones, all piano arrangements of video game soundtracks. Each piece was annotated by 30 human subjects according to a valence-arousal (dimensional) model of emotion. The sentiment of each piece was then extracted by summarizing the 30 annotations and mapping the valence axis to sentiment. The dataset is available on <a href='https://github.com/lucasnfe/vgmidi'>github</a>."

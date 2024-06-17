@@ -1,6 +1,6 @@
 - title: "Recommendation Systems for Personalized Learning of Programming"
-  image: "/assets/images/programming.jpg"
-  abstract: "The high interest in Computer Science programs has pushed universities around the world to raise the number of seats in related classes, making it challenging to provide personalized attention to students. Programming courses are one of the most important disciplines in these programs and are particularly challenging since they require a significant number of practical exercises, which need to be designed to address the various students' backgrounds. In this project, we investigate recommendation systems that can model students' profiles and suggest appropriate learning materials."
+  image: "/assets/images/nes-vmdb.png"
+  abstract: "Indie game developers typically handle every aspect of their game themselves, from coding to visual assets. However, music and sound effects are usually outsourced to third-party producers or sourced from online resources (paid or open). While outsourcing audio production might be a viable option for established indie developers, it’s less accessible for those with hard budget constraints, particularly in developing countries. To make music production for games more democratic, we are investigating neural models for learning to generate soundtracks for video games directly from gameplay videos."
 
 - title: "Affective Music Composition with Deep Learning"
   image: "/assets/images/music.png"
