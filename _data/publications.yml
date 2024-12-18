@@ -10,6 +10,11 @@ journals:
     venue: "IEEE Transactions on Games, 2017"
 
 conferences:
+  - title: "Long-Form Text-To-Music Generation With Adaptive Prompts: A Case Study In Tabletop Role-Playing Games Soundtracks"
+    pdf: "assets/papers/2024/lamir-24.pdf"
+    authors: "Felipe Marra and Lucas N. Ferreira"
+    venue: "Latin American Music Information Retrieval Workshop (LAMIR), 2024"
+
   - title: "The NES Video-Music Database: A Dataset of Symbolic Video Game Music Paired with Gameplay Videos"
     pdf: "assets/papers/2024/fdg-24.pdf"
     authors: "Igor Cardoso, Rubens O. Moraes, and Lucas N. Ferreira"
