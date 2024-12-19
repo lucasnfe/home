@@ -1,4 +1,4 @@
-- title: "Video-to-Music Generation from Video Game Gameplays"
+- title: "Video-to-Music Generation from Gameplay Videos"
   image: "/assets/images/nes-vmdb.png"
   abstract: "Indie game developers typically handle every aspect of their game themselves, from coding to visual assets. However, music and sound effects are usually outsourced to third-party producers or sourced from online resources (paid or open). While outsourcing audio production might be a viable option for established indie developers, it’s less accessible for those with hard budget constraints, particularly in developing countries. To make music production for games more democratic, we are investigating neural models for learning to generate soundtracks for video games directly from gameplay videos."
 
