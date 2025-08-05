@@ -10,6 +10,16 @@ journals:
     venue: "IEEE Transactions on Games, 2017"
 
 conferences:
+  - title: "A Holistic Recommendation System for Higher Education Academic Activities"
+    pdf: "assets/papers/2025/edm-25.pdf"
+    authors: "Rafael Alves da Silva and Lucas N. Ferreira"
+    venue: "International Conference on Educational Data Mining (EDM), 2025"
+
+  - title: "Automatic Aesthetic Evaluation in Generative Image Models"
+    pdf: "assets/papers/2025/iccc-25.pdf"
+    authors: "Larissa D. Gomide, Lucas N. Ferreira, and Wagner Meira Jr."
+    venue: "International Conference on Computational Creativity (ICCC), 2025"
+
   - title: "Long-Form Text-To-Music Generation With Adaptive Prompts: A Case Study In Tabletop Role-Playing Games Soundtracks"
     pdf: "assets/papers/2024/lamir-24.pdf"
     authors: "Felipe Marra and Lucas N. Ferreira"

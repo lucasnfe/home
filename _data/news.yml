@@ -1,3 +1,18 @@
+- date: August 2025
+  headline: "My new research group at UFMG, Music-Oriented Systems and Artificial Intelligence for Creativity (MOSAIC), now has a <a href='https://mosaic-ufmg.github.io/'>website</a>!"
+
+- date: July 2025
+  headline: "I appeared on the <a href='https://minasplay.com/video/2747/inteligencias-manual-e-artificial-como-equilibrar-/'>Brasil das Gerais</a> TV show on Rede Minas, where I talked about AI and creativity."
+
+- date: July 2025
+  headline: "Rafael Alves da Silva (my M.Sc. student) presented our paper <a href='https://educationaldatamining.org/EDM2025/proceedings/2025.EDM.short-papers.161/2025.EDM.short-papers.161.pdf'>A Holistic Recommendation System for Higher Education Academic Activities</a> at the <a href='https://educationaldatamining.org/edm2025/'>Educational Data Mining Conference 2025</a> (EDM'25)."
+
+- date: June 2025
+  headline: "Larissa D. Gomide (my M.Sc. student) and I presented our paper <a href='https://homepages.dcc.ufmg.br/~lferreira/assets/papers/2025/iccc-25.pdf'>Automatic Aesthetic Evaluation in Generative Image Models</a> at the <a href='https://computationalcreativity.net/iccc25/'>16th International Conference on Computational Creativity</a> (ICCC'25)."
+
+- date: March 2025
+  headline: "[PT-BR] Esse semestre (2025/1) eu ministrarei a disciplina <a href='https://lucasnfe.github.io/dcc192-2025-1'>DCC192 - Desenvolvimento de Jogos Digitais.</a>"
+
 - date: December 2024
   headline: "I joined <a href='https://www.ufmg.br'>Universidade Federal de Minas Gerais</a> as an Assistant Professor at the <a href='https://www.dcc.ufmg.br'>Computer Science Department</a>."
 
@@ -5,7 +20,7 @@
   headline: "Felipe Marra (my M.Sc. student) and I presented our paper <a href='https://arxiv.org/abs/2411.03948'>Long-Form Text-To-Music Generation With Adaptive Prompts: A Case Study In Tabletop Role-Playing Games Soundtracks</a> at the <a href='https://lamir-workshop.github.io'>1st LAMIR</a> (Latin American Music Information Retrieval) workshop!"
 
 - date: August 2024
-  headline: "This semester (2024/2) I will be teaching <a href='https://ufv-inf721-2024-2.lucasnferreira.com/'>INF721 - Deep Learning</a>"
+  headline: "This semester (2024/2) I will be teaching <a href='https://ufv-inf721-2024-2.lucasnferreira.com/'>INF721 - Deep Learning.</a>"
 
 - date: April 2024
   headline: "I presented our paper  <a href='https://www.lucasnferreira.com/assets/papers/2024/fdg-24.pdf'>The NES Video-Music Database: A Dataset of Symbolic Video Game Music Paired with Gameplay Videos</a> (with Igor Rogrigues Cardoso and Rubens Moraes)at <a href='http://fdg2024.org/'>FDG24</a>!"
@@ -14,7 +29,7 @@
   headline: "I have a new M.Sc. student. Welcome, <b>Felipe Ferreira Marra</b>!"
 
 - date: March 2024
-  headline: "Esse semestre (2024/1) ministrarei <a href='https://ufv-inf623.lucasnferreira.com/'>INF623 - Inteligência Artificial</a>, INF110 - Programação I e INF110 - Introdução à Programação"
+  headline: "[PT-BR] Esse semestre (2024/1) ministrarei <a href='https://ufv-inf623.lucasnferreira.com/'>INF623 - Inteligência Artificial</a>, INF110 - Programação I e INF110 - Introdução à Programação"
 
 - date: February 2024
   headline: "Our paper <i>The NES Video-Music Database: A Dataset of Symbolic Video Game Music Paired with Gameplay Videos</i> (with Igor Rogrigues Cardoso and Rubens Moraes) has been accepted to <a href='http://fdg2024.org/'>FDG24</a>"
