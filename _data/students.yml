@@ -6,16 +6,15 @@ phd:
 masters:
   - name: "Felipe Ferreira Marra"
     site: "https://www.felipemarra.com/"
+  
+  - name: "Larissa D. Gomide"
+    cosupervisor: "Wagner Meira Jr."
 
   - name: "Rafael Alves da Silva"
     
     
 undergrad:
   - name: "João Lucas Silva Solano"
-    
-
   - name: "José Júlio Alves Campolina"
-    
-
   - name: "Daniel Monteiro Rosado"
     

@@ -9,7 +9,11 @@ title: People
   <div class="card bg-light border-0 mb-2">
     <div class="card-body">
         {% for s in site.data.students.phd %}
-        <h6 class="card-title">{{ s.name }}</h6>
+        <h6 class="card-title">{{ s.name }}
+        {% if s.cosupervisor %}
+          (co-supervised with {{s.cosupervisor}})
+        {% endif %}
+        </h6>
         {% endfor %}
     </div>
   </div>
@@ -22,7 +26,11 @@ title: People
   <div class="card bg-light border-0 mb-2">
     <div class="card-body">
         {% for s in site.data.students.masters %}
-        <h6 class="card-title">{{ s.name }}</h6>
+        <h6 class="card-title">{{ s.name }}
+        {% if s.cosupervisor %}
+        (co-supervised with {{s.cosupervisor}})
+        {% endif %}
+        </h6>
         {% endfor %}
     </div>
   </div>
