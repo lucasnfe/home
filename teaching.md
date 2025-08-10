@@ -10,8 +10,8 @@ layout: default
 - 2025/1: DCC205 - Estrutura de Dados
 
 #### Universidade Federal de Viçosa
-- 2024/2: [INF721 - Deep Learning](https://ufv-inf721-2024-2.lucasnferreira.com/)
-- 2024/1: [INF623 - Inteligência Artificial](https://ufv-inf623.lucasnferreira.com/)
+- 2024/2: [INF721 - Deep Learning](https://lucasnfe.github.io/ufv-inf721-2024-2/)
+- 2024/1: [INF623 - Inteligência Artificial](https://lucasnfe.github.io/ufv-inf623/)
 - 2024/1: INF110 - Programação I
 - 2024/1: INF100 - Introdução à Programação I
 - 2023/2: [INF721 - Aprendizado em Redes Neurais Profundas](https://lucasnfe.github.io/ufv-inf721/)
