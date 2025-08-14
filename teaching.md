@@ -3,8 +3,8 @@ title: Teaching
 layout: default
 ---
 #### Universidade Federal de Minas Gerais
-- 2025/2: DCC192 - Desenvolvimento de Jogos Digitais
-- 2025/2: [DCC220 - Fundamentos de Interação Humano Computador](https://lucasnfe.github.io/dcc192-2025-2/)
+- 2025/2: [DCC192 - Desenvolvimento de Jogos Digitais](https://lucasnfe.github.io/dcc192-2025-2/)
+- 2025/2: DCC220 - Fundamentos de Interação Humano Computador
 - 2025/2: DCC642 - Introdução à Inteligência Artificial
 - 2025/1: [DCC192 - Desenvolvimento de Jogos Digitais](https://lucasnfe.github.io/dcc192-2025-1/)
 - 2025/1: DCC205 - Estrutura de Dados
