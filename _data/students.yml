@@ -1,20 +1,28 @@
 phd:
   - name: "Carlos Eduardo Paulino Silva"
     site: "https://www.researchgate.net/profile/Carlos_Silva23"
-    cosupervisor: "André Gustavo dos Santos"
+    cosupervisor: "André G. dos Santos and Julio C. S. Reis"
 
 masters:
   - name: "Felipe Ferreira Marra"
-    site: "https://www.felipemarra.com/"
-  
+    site: https://www.linkedin.com/in/felipe-f-marra/?originalSubdomain=br"
+
+  - name: "Igor Mattos dos Santos Varejão"
+    site: "https://www.linkedin.com/in/igor-varejao/?originalSubdomain=br"
+
+  - name: "João Carlos Santana Silveira"
+    site: "https://www.linkedin.com/in/jo%C3%A3o-carlos-santana-silveira/?originalSubdomain=br"    
+
   - name: "Larissa D. Gomide"
+    site: "https://www.linkedin.com/in/larissa-dolabella-a112bb181/"
     cosupervisor: "Wagner Meira Jr."
 
   - name: "Rafael Alves da Silva"
-    
+
+  - name: "Victor Augusto de Lima Cruz"
+    site: https://www.linkedin.com/in/victor-augusto-2178421b9/"  
     
 undergrad:
-  - name: "João Lucas Silva Solano"
-  - name: "José Júlio Alves Campolina"
   - name: "Daniel Monteiro Rosado"
-    
+  - name: "João Lucas Silva Solano"
+  - name: "José Júlio Alves Campolina"  
